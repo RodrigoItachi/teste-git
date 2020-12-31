@@ -7,6 +7,7 @@ public class Program {
 		System.out.println("Teste02");
 		System.out.println("Teste03");
 		System.out.println("Teste04");
+		System.out.println("Foi clonado com sucesso");
 	}
 
 }
